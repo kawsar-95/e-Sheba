@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ybq:Android-SpinKit:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3495fd1cfb8ef0518ecd17bab1648883/jetified-Android-SpinKit-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3495fd1cfb8ef0518ecd17bab1648883/jetified-Android-SpinKit-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3495fd1cfb8ef0518ecd17bab1648883/jetified-Android-SpinKit-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ybq/Android-SpinKit/1.2.0/832827c8b4d7819cc8352090dc22325456b22c17/Android-SpinKit-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ybq/Android-SpinKit/1.2.0/6549c6cdbf38fee6ce7591c7625931238d845bc6/Android-SpinKit-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habib\\.gradle\\caches\\transforms-2\\files-2.1\\46563e1e7d703e135d559561a9b0a202\\jetified-NiftyDialogEffects-v1.0.3\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "199"
+                    }
+                }
+            ]
+        }
+    ]
+}

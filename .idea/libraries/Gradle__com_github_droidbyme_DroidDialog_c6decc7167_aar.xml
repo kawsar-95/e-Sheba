@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.droidbyme:DroidDialog:c6decc7167@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1c02dfd6802a7b2afc03bc33567cd72/jetified-DroidDialog-c6decc7167/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1c02dfd6802a7b2afc03bc33567cd72/jetified-DroidDialog-c6decc7167/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1c02dfd6802a7b2afc03bc33567cd72/jetified-DroidDialog-c6decc7167/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

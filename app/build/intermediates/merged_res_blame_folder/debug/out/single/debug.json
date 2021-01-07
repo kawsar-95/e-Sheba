@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_main.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_admin_main.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_contactus.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_contactus.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sp_main.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_sp_main.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_arrow_down.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_border.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\round_border.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_payments.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_payments.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_not_found.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\not_found.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lock.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_lock.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgbtnguide.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\bgbtnguide.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_side_nav_bar.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\side_nav_bar.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_card_bg.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\card_bg.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_icon_one.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_icon_one.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_crops2.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\crops2.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_profile.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_profile.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_shop.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_shop.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_logout.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_logout.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_roundshapebtn.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\roundshapebtn.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_carts.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_carts.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_about_us.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_about_us.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_addproduct.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_addproduct.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_dashboard_black_24dp.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_sp_order.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_sp_order.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_welcome.gif.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\welcome.gif"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_blood_bank.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_blood_bank.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_search.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_search.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_search.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_search.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\anim_smalltobig.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\anim\\smalltobig.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_translation.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\translation.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_orders.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_orders.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_newspaper.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\newspaper.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_main.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\logo_main.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_crops.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\crops.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_press.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\button_press.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_welcomebackground.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\welcomebackground.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nodatafound.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\nodatafound.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_myproduct.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_myproduct.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_oops_sp.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_oops_sp.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_call.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_call.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_bg_three.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_bg_three.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_loading.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_loading.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_blood.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_blood.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_profile.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_profile.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_donation_tips.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_donation_tips.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_no_product.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\no_product.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_order.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_order.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_review.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\review.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_location.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_location.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_applogo.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_applogo.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgbtnpress.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\bgbtnpress.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_find_hospital.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_find_hospital.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_products.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\products.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_help.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_help.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_hospital.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_hospital.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_warning.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\warning.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_add.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loading.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\loading.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_e_sheba_logo_sq.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\e_sheba_logo_sq.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_placeholder.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\image_placeholder.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fosol.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\fosol.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_find_ambulance.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_find_ambulance.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search_input_style.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\search_input_style.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\anim_btta2.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\anim\\btta2.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_image.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_add_image.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_background.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\button_background.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_cus_order.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_cus_order.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_card_bg_two.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\card_bg_two.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_potato.jpg.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\potato.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_login.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\login.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradiant.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\gradiant.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_chat.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_chat.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_e_sheba_logo_cir.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\e_sheba_logo_cir.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_logout.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_logout.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_doctor_list.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_doctor_list.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_main.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_customer_main.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_action_name.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_action_name.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgbtnonfocus.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\bgbtnonfocus.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_design.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable\\button_design.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_bg_two.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_bg_two.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_userguide.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_userguide.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_review.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_review.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_gender.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_gender.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_find_doctor.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_find_doctor.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_home_black_24dp.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rounded_button.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\rounded_button.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_ambulance_list.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_ambulance_list.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_one.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\bg_one.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\anim_btta.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\anim\\btta.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_about_app.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_about_app.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_bg_one.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_bg_one.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_contact_us.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_contact_us.xml"
+    }
+]

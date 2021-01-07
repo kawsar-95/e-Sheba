@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.project.esheba"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/e_sheba_logo_sq"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/e_sheba_logo_cir"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.ESheba"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.esheba.ServiceProvider.SpMainActivity" />
+        <activity android:name="com.project.esheba.Customer.CustomerMainActivity" />
+        <activity android:name="com.project.esheba.Admin.AdminMainActivity" />
+        <activity android:name="com.project.esheba.RegistrationActivity" />
+        <activity android:name="com.project.esheba.LoginActivity" />
+        <activity android:name="com.project.esheba.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.karumi.dexter.DexterActivity"
+            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+        <activity
+            android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.project.esheba.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>
