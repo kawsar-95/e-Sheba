@@ -17,7 +17,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
-        android:icon="@drawable/e_sheba_logo_sq"
+        android:icon="@drawable/logo_main"
         android:label="@string/app_name"
         android:roundIcon="@drawable/e_sheba_logo_cir"
         android:supportsRtl="true"

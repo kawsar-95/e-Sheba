@@ -120,7 +120,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ha
 	android:roundIcon
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:13:9-55
 	android:icon
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:11:9-49
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme

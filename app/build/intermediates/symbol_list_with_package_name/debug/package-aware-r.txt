@@ -1641,6 +1641,13 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable background
+drawable background_eight
+drawable background_five
+drawable background_one
+drawable background_seven
+drawable background_six
+drawable background_three
+drawable background_two
 drawable bg_one
 drawable bgbtnguide
 drawable bgbtnonfocus
@@ -1764,6 +1771,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable navkground_four
 drawable newspaper
 drawable no_product
 drawable nodatafound
@@ -1913,6 +1921,11 @@ id buttonPanel
 id cache_measures
 id cancel_action
 id cancel_button
+id card_adminProfile
+id card_allUserAdmn
+id card_dashboadAdmn
+id card_logoutAdmn
+id card_viewSpAdmn
 id cell
 id center
 id center_horizontal
