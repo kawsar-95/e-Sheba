@@ -24,6 +24,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.esheba.ServiceProvider.Profile.EditProfileSpActivity" />
+        <activity android:name="com.project.esheba.ServiceProvider.Profile.ProfileSpActivity" />
+        <activity android:name="com.project.esheba.Customer.Profile.EditProfileCusActivity" />
+        <activity android:name="com.project.esheba.Customer.Profile.ProfileCusActivity" />
+        <activity android:name="com.project.esheba.Admin.Profile.EditProfileAdminActivity" />
+        <activity android:name="com.project.esheba.Admin.Profile.ProfileAdminActivity" />
         <activity android:name="com.project.esheba.ServiceProvider.SpMainActivity" />
         <activity android:name="com.project.esheba.Customer.CustomerMainActivity" />
         <activity android:name="com.project.esheba.Admin.AdminMainActivity" />

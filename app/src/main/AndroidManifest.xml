@@ -15,7 +15,13 @@
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ServiceProvider.SpMainActivity"></activity>
+        <activity android:name=".ServiceProvider.Profile.EditProfileSpActivity"></activity>
+        <activity android:name=".ServiceProvider.Profile.ProfileSpActivity" />
+        <activity android:name=".Customer.Profile.EditProfileCusActivity" />
+        <activity android:name=".Customer.Profile.ProfileCusActivity" />
+        <activity android:name=".Admin.Profile.EditProfileAdminActivity" />
+        <activity android:name=".Admin.Profile.ProfileAdminActivity" />
+        <activity android:name=".ServiceProvider.SpMainActivity" />
         <activity android:name=".Customer.CustomerMainActivity" />
         <activity android:name=".Admin.AdminMainActivity" />
         <activity android:name=".RegistrationActivity" />

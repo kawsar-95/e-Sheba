@@ -2303,8 +2303,14 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_admin_main
 layout activity_customer_main
+layout activity_edit_profile_admin
+layout activity_edit_profile_cus
+layout activity_edit_profile_sp
 layout activity_image_select
 layout activity_login
+layout activity_profile_admin
+layout activity_profile_cus
+layout activity_profile_sp
 layout activity_registration
 layout activity_sp_main
 layout activity_splash
