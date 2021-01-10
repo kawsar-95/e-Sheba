@@ -1923,7 +1923,9 @@ id btnNeutral
 id btnPositive
 id btnSearch_sp
 id btnSearch_user
+id btn_editshop
 id btn_login
+id btn_saveshop
 id btn_signup
 id btn_signup_submit
 id btn_updateAdmn
@@ -2293,6 +2295,7 @@ id txtTitlesignup
 id txtUsernameAdmn
 id txtUsernameCus
 id txtUsernameSp
+id txt_editaddressCompany
 id txt_editaddressCus
 id txt_editaddressSp
 id txt_editemailAdmn
@@ -2300,14 +2303,18 @@ id txt_editemailCus
 id txt_editemailSp
 id txt_editgenderCus
 id txt_editgenderSp
+id txt_editlicencenumshop
+id txt_editlocationCompany
 id txt_editlocationCus
 id txt_editlocationSp
 id txt_editmobileAdmn
 id txt_editmobileCus
 id txt_editmobileSp
+id txt_editownernameCompany
 id txt_editpasswordAdmn
 id txt_editpasswordCus
 id txt_editpasswordSp
+id txt_editshopnameCompany
 id txt_editusernameAdmn
 id txt_editusernameCus
 id txt_editusernameSp
@@ -2407,6 +2414,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_admin_main
+layout activity_company_info
 layout activity_contact_admin
 layout activity_customer_list
 layout activity_customer_main

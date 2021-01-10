@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
 MERGED from [com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\b8718484daa03109e40dacfa216193fb\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -54,22 +54,22 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\habib\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:1-46:12
 		INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:2:11-69
@@ -84,7 +84,7 @@ MERGED from [com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\ca
 	android:name
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:9:5-43:19
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:9:5-44:19
 MERGED from [com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\c63d4a666c0a1ba98c2e2f24b9638d9e\material-1.2.1\AndroidManifest.xml:22:5-20
@@ -127,82 +127,86 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ha
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:15:9-44
 	android:usesCleartextTraffic
 		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:16:9-44
+activity#com.project.esheba.ServiceProvider.CompanyInfoActivity
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:9-82
+	android:name
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:19-70
 activity#com.project.esheba.ContactAdminActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:9-67
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:9-58
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:19-55
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:19-55
 activity#com.project.esheba.Admin.Profile.CustomerListActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:9-72
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:9-72
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:19-69
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:19-69
 activity#com.project.esheba.Admin.Profile.SpListActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:9-66
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:9-66
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:19-63
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:19-63
 activity#com.project.esheba.ServiceProvider.Profile.EditProfileSpActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:9-83
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:9-83
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:19-80
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:19-80
 activity#com.project.esheba.ServiceProvider.Profile.ProfileSpActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:9-79
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:9-79
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:19-76
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:19-76
 activity#com.project.esheba.Customer.Profile.EditProfileCusActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:9-77
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:9-77
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:19-74
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:19-74
 activity#com.project.esheba.Customer.Profile.ProfileCusActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:9-73
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:9-73
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:19-70
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:19-70
 activity#com.project.esheba.Admin.Profile.EditProfileAdminActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:9-76
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:9-76
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:19-73
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:19-73
 activity#com.project.esheba.Admin.Profile.ProfileAdminActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:9-72
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:9-72
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:19-69
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:19-69
 activity#com.project.esheba.ServiceProvider.SpMainActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:9-68
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:9-68
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:19-65
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:19-65
 activity#com.project.esheba.Customer.CustomerMainActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:9-67
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:9-67
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:19-64
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:19-64
 activity#com.project.esheba.Admin.AdminMainActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:9-61
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:9-61
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:19-58
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:19-58
 activity#com.project.esheba.RegistrationActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:9-58
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:9-58
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:19-55
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:19-55
 activity#com.project.esheba.LoginActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:9-51
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:9-51
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:19-48
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:19-48
 activity#com.project.esheba.SplashActivity
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:9-38:20
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:9-39:20
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:27-74
 uses-library#org.apache.http.legacy
-ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:40:9-42:40
+ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:required
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:13-37
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:13-50
+		ADDED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:13-50
 uses-sdk
 INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml

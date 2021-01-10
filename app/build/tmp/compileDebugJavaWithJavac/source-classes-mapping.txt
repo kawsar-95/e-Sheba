@@ -81,6 +81,18 @@ com/project/esheba/Admin/AdminMainActivity.java
  com.project.esheba.Admin.AdminMainActivity$3
  com.project.esheba.Admin.AdminMainActivity$4
  com.project.esheba.Admin.AdminMainActivity$5
+com/project/esheba/ServiceProvider/CompanyInfoActivity.java
+ com.project.esheba.ServiceProvider.CompanyInfoActivity
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$1
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$1$1
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$1$2
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$2
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$3
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$4
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$5
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$6
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$7
+ com.project.esheba.ServiceProvider.CompanyInfoActivity$8
 com/project/esheba/Admin/Profile/CustomerListActivity.java
  com.project.esheba.Admin.Profile.CustomerListActivity
  com.project.esheba.Admin.Profile.CustomerListActivity$1

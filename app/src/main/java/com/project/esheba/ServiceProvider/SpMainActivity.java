@@ -94,8 +94,8 @@ public class SpMainActivity extends AppCompatActivity {
         cardShopSp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-             /*   Intent intent = new Intent(SpMainActivity.this, ShopInfoActivity.class);
-                startActivity(intent);*/
+                Intent intent = new Intent(SpMainActivity.this, CompanyInfoActivity.class);
+                startActivity(intent);
 
             }
         });
