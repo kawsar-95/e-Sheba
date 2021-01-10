@@ -33,7 +33,7 @@ import es.dmoral.toasty.Toasty;
 
 public class CustomerMainActivity extends AppCompatActivity {
 
-    CardView cardProfileCus, cardShopCus, cardAllProductsCus,  cardOrdersCus, cardLogoutCus, cardContractAdminCus;
+    CardView cardProfileCus, cardShopCus, cardAllProductsCus, cardOrdersCus, cardLogoutCus, cardContractAdminCus;
 
     SharedPreferences sp;
     SharedPreferences.Editor editor;
@@ -50,6 +50,7 @@ public class CustomerMainActivity extends AppCompatActivity {
     //for double back press to exit
     private static final int TIME_DELAY = 2000;
     private static long back_pressed;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -88,8 +89,8 @@ public class CustomerMainActivity extends AppCompatActivity {
         cardShopCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-        //        Intent intent = new Intent(CustomerMainActivity.this, ShopListCustActivity.class);
-         //       startActivity(intent);
+                Intent intent = new Intent(CustomerMainActivity.this, ViewComapnyActivity.class);
+                startActivity(intent);
 
             }
         });
@@ -98,7 +99,7 @@ public class CustomerMainActivity extends AppCompatActivity {
         cardContractAdminCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               Intent intent = new Intent(CustomerMainActivity.this, ContactAdminActivity.class);
+                Intent intent = new Intent(CustomerMainActivity.this, ContactAdminActivity.class);
                 startActivity(intent);
 
             }
@@ -123,8 +124,6 @@ public class CustomerMainActivity extends AppCompatActivity {
 
             }
         });
-
-
 
 
         cardLogoutCus.setOnClickListener(new View.OnClickListener() {
@@ -224,4 +223,5 @@ public class CustomerMainActivity extends AppCompatActivity {
                     Toast.LENGTH_SHORT).show();
         }
         back_pressed = System.currentTimeMillis();
-    }}
+    }
+}

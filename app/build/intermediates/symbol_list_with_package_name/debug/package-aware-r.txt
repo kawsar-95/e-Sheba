@@ -1921,6 +1921,7 @@ id btnEditProfileSp
 id btnNegative
 id btnNeutral
 id btnPositive
+id btnSearchShop
 id btnSearch_sp
 id btnSearch_user
 id btn_editshop
@@ -2019,6 +2020,7 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etxt_search
 id etxt_search_sp
 id etxt_search_user
 id exitUntilCollapsed
@@ -2080,6 +2082,7 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id listView_sp
 id listView_user
 id list_icon
@@ -2430,6 +2433,7 @@ layout activity_registration
 layout activity_sp_list
 layout activity_sp_main
 layout activity_splash
+layout activity_view_comapny
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

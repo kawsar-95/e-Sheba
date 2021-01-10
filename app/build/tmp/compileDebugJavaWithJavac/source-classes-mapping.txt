@@ -64,16 +64,9 @@ com/project/esheba/ServiceProvider/Profile/EditProfileSpActivity.java
  com.project.esheba.ServiceProvider.Profile.EditProfileSpActivity$6
 com/project/esheba/ContactAdminActivity.java
  com.project.esheba.ContactAdminActivity
-com/project/esheba/Customer/CustomerMainActivity.java
- com.project.esheba.Customer.CustomerMainActivity
- com.project.esheba.Customer.CustomerMainActivity$1
- com.project.esheba.Customer.CustomerMainActivity$2
- com.project.esheba.Customer.CustomerMainActivity$3
- com.project.esheba.Customer.CustomerMainActivity$4
- com.project.esheba.Customer.CustomerMainActivity$5
- com.project.esheba.Customer.CustomerMainActivity$6
- com.project.esheba.Customer.CustomerMainActivity$7
- com.project.esheba.Customer.CustomerMainActivity$8
+com/project/esheba/SplashActivity.java
+ com.project.esheba.SplashActivity
+ com.project.esheba.SplashActivity$1
 com/project/esheba/Admin/AdminMainActivity.java
  com.project.esheba.Admin.AdminMainActivity
  com.project.esheba.Admin.AdminMainActivity$1
@@ -111,6 +104,14 @@ com/project/esheba/ServiceProvider/Profile/ProfileSpActivity.java
  com.project.esheba.ServiceProvider.Profile.ProfileSpActivity$1
  com.project.esheba.ServiceProvider.Profile.ProfileSpActivity$2
  com.project.esheba.ServiceProvider.Profile.ProfileSpActivity$3
+com/project/esheba/Customer/ViewComapnyActivity.java
+ com.project.esheba.Customer.ViewComapnyActivity
+ com.project.esheba.Customer.ViewComapnyActivity$1
+ com.project.esheba.Customer.ViewComapnyActivity$2
+ com.project.esheba.Customer.ViewComapnyActivity$3
+ com.project.esheba.Customer.ViewComapnyActivity$4
+ com.project.esheba.Customer.ViewComapnyActivity$4$1
+ com.project.esheba.Customer.ViewComapnyActivity$4$2
 com/project/esheba/Customer/Profile/EditProfileCusActivity.java
  com.project.esheba.Customer.Profile.EditProfileCusActivity
  com.project.esheba.Customer.Profile.EditProfileCusActivity$1
@@ -135,6 +136,11 @@ com/project/esheba/Admin/Profile/EditProfileAdminActivity.java
  com.project.esheba.Admin.Profile.EditProfileAdminActivity$2
  com.project.esheba.Admin.Profile.EditProfileAdminActivity$3
  com.project.esheba.Admin.Profile.EditProfileAdminActivity$4
+com/project/esheba/Customer/Profile/ProfileCusActivity.java
+ com.project.esheba.Customer.Profile.ProfileCusActivity
+ com.project.esheba.Customer.Profile.ProfileCusActivity$1
+ com.project.esheba.Customer.Profile.ProfileCusActivity$2
+ com.project.esheba.Customer.Profile.ProfileCusActivity$3
 com/project/esheba/LoginActivity.java
  com.project.esheba.LoginActivity
  com.project.esheba.LoginActivity$1
@@ -145,11 +151,13 @@ com/project/esheba/LoginActivity.java
  com.project.esheba.LoginActivity$4
  com.project.esheba.LoginActivity$5
  com.project.esheba.LoginActivity$6
-com/project/esheba/SplashActivity.java
- com.project.esheba.SplashActivity
- com.project.esheba.SplashActivity$1
-com/project/esheba/Customer/Profile/ProfileCusActivity.java
- com.project.esheba.Customer.Profile.ProfileCusActivity
- com.project.esheba.Customer.Profile.ProfileCusActivity$1
- com.project.esheba.Customer.Profile.ProfileCusActivity$2
- com.project.esheba.Customer.Profile.ProfileCusActivity$3
+com/project/esheba/Customer/CustomerMainActivity.java
+ com.project.esheba.Customer.CustomerMainActivity
+ com.project.esheba.Customer.CustomerMainActivity$1
+ com.project.esheba.Customer.CustomerMainActivity$2
+ com.project.esheba.Customer.CustomerMainActivity$3
+ com.project.esheba.Customer.CustomerMainActivity$4
+ com.project.esheba.Customer.CustomerMainActivity$5
+ com.project.esheba.Customer.CustomerMainActivity$6
+ com.project.esheba.Customer.CustomerMainActivity$7
+ com.project.esheba.Customer.CustomerMainActivity$8
