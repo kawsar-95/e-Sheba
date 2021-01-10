@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:background="@drawable/card_bg"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/list_icon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:src="@drawable/ic_opps_review" />
+
+    <TextView
+        android:id="@+id/txt_review"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/list_icon"
+        android:paddingTop="5dp"
+        android:text="Review"
+        android:textAlignment="textStart"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/txt_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_review"
+        android:layout_alignStart="@id/txt_review"
+        android:layout_alignLeft="@id/txt_review"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="Rating "
+        android:textAlignment="viewStart"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/colorRed_A400"
+        android:textSize="20sp"
+        tools:ignore="RtlCompat" />
+
+
+</RelativeLayout>

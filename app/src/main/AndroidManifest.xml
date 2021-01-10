@@ -15,7 +15,9 @@
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ServiceProvider.Profile.EditProfileSpActivity"></activity>
+        <activity android:name=".Admin.Profile.CustomerListActivity"></activity>
+        <activity android:name=".Admin.Profile.SpListActivity" />
+        <activity android:name=".ServiceProvider.Profile.EditProfileSpActivity" />
         <activity android:name=".ServiceProvider.Profile.ProfileSpActivity" />
         <activity android:name=".Customer.Profile.EditProfileCusActivity" />
         <activity android:name=".Customer.Profile.ProfileCusActivity" />

@@ -8,7 +8,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.project.esheba.Admin.Profile.CustomerListActivity;
 import com.project.esheba.Admin.Profile.ProfileAdminActivity;
+import com.project.esheba.Admin.Profile.SpListActivity;
 import com.project.esheba.Constant;
 import com.project.esheba.LoginActivity;
 import com.project.esheba.R;
@@ -69,8 +71,8 @@ public class AdminMainActivity extends AppCompatActivity {
         cardServiceProviderAdmin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //      Intent intent = new Intent(AdminMainActivity.this, SpListActivity.class);
-                //     startActivity(intent);
+                Intent intent = new Intent(AdminMainActivity.this, SpListActivity.class);
+                startActivity(intent);
 
             }
         });
@@ -79,8 +81,8 @@ public class AdminMainActivity extends AppCompatActivity {
         cardAllUsersAdmin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //    Intent intent = new Intent(AdminMainActivity.this, CustomerListActivity.class);
-                //     startActivity(intent);
+                Intent intent = new Intent(AdminMainActivity.this, CustomerListActivity.class);
+                startActivity(intent);
 
             }
         });

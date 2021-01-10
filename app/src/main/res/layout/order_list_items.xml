@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/list_icon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="3dp"
+        android:padding="5dp"
+        android:src="@drawable/ic_sp_order" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@id/list_icon"
+        android:paddingTop="5dp"
+        android:text="Product Name"
+        android:textAlignment="textStart"
+        android:textColor="#FF5722"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/txt_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@id/txt_price"
+        android:layout_alignStart="@id/txt_name"
+        android:layout_alignLeft="@id/txt_name"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="Quantity"
+        android:textAlignment="viewStart"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000"
+        android:textSize="13dp"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/txt_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_quantity"
+        android:layout_alignStart="@+id/txt_quantity"
+        android:layout_alignLeft="@+id/txt_quantity"
+        android:text="Status "
+        android:textSize="13dp"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/txt_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_name"
+        android:layout_alignStart="@+id/txt_quantity"
+        android:layout_alignLeft="@+id/txt_quantity"
+        android:text="Price"
+        android:textSize="13dp"
+        android:textColor="#000" />
+
+
+</RelativeLayout>
