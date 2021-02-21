@@ -15,7 +15,9 @@
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Customer.ViewComapnyActivity"></activity>
+        <activity android:name=".ServiceProvider.Product.ProductDescriptionCHActivity"></activity>
+        <activity android:name=".ServiceProvider.Product.AddProductCHActivity" />
+        <activity android:name=".Customer.ViewComapnyActivity" />
         <activity android:name=".ServiceProvider.CompanyInfoActivity" />
         <activity android:name=".ContactAdminActivity" />
         <activity android:name=".Admin.Profile.CustomerListActivity" />

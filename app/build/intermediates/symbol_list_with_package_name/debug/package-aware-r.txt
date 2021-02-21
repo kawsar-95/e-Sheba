@@ -2064,6 +2064,7 @@ id imgIcon
 id img_layout
 id img_no_data
 id img_product
+id img_productPhotographer
 id info
 id invisible
 id italic
@@ -2323,11 +2324,14 @@ id txt_editusernameCus
 id txt_editusernameSp
 id txt_message
 id txt_name
+id txt_namePhotographer
 id txt_price
+id txt_pricePhotographer
 id txt_quantity
 id txt_rating
 id txt_review
 id txt_size
+id txt_sizePhotographer
 id txt_status
 id txteditNameAdmn
 id txteditNameCus
@@ -2416,6 +2420,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_product_c_h
 layout activity_admin_main
 layout activity_company_info
 layout activity_contact_admin
@@ -2426,6 +2431,7 @@ layout activity_edit_profile_cus
 layout activity_edit_profile_sp
 layout activity_image_select
 layout activity_login
+layout activity_product_description_c_h
 layout activity_profile_admin
 layout activity_profile_cus
 layout activity_profile_sp
@@ -2499,6 +2505,7 @@ layout notification_template_part_time
 layout order_list_items
 layout review_list_items
 layout row_item
+layout row_item_sp
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
