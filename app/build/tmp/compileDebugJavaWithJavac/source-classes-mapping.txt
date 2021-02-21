@@ -4,6 +4,14 @@ com/project/esheba/remote/ApiClient.java
  com.project.esheba.remote.ApiClient
 com/project/esheba/ServiceProvider/Product/ProductDescriptionCHActivity.java
  com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$1
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$2
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$3
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$3$1
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$3$2
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$4
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$5
+ com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity$6
 com/project/esheba/Admin/Profile/SpListActivity.java
  com.project.esheba.Admin.Profile.SpListActivity
  com.project.esheba.Admin.Profile.SpListActivity$1
@@ -41,6 +49,8 @@ com/project/esheba/Customer/CustomerMainActivity.java
  com.project.esheba.Customer.CustomerMainActivity$6
  com.project.esheba.Customer.CustomerMainActivity$7
  com.project.esheba.Customer.CustomerMainActivity$8
+com/project/esheba/ServiceProvider/OrderCHActivity.java
+ com.project.esheba.ServiceProvider.OrderCHActivity
 com/project/esheba/ServiceProvider/CompanyInfoActivity.java
  com.project.esheba.ServiceProvider.CompanyInfoActivity
  com.project.esheba.ServiceProvider.CompanyInfoActivity$1
@@ -131,6 +141,16 @@ com/project/esheba/ContactAdminActivity.java
  com.project.esheba.ContactAdminActivity
 com/project/esheba/ServiceProvider/Product/AddProductCHActivity.java
  com.project.esheba.ServiceProvider.Product.AddProductCHActivity
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$1
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$1$1
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$1$2
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$2
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$3
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$3$1
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$3$2
+ com.project.esheba.ServiceProvider.Product.AddProductCHActivity$4
+com/project/esheba/ServiceProvider/Product/Order/OrderListCHActivity.java
+ com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity
 com/project/esheba/Admin/AdminMainActivity.java
  com.project.esheba.Admin.AdminMainActivity
  com.project.esheba.Admin.AdminMainActivity$1
@@ -146,6 +166,10 @@ com/project/esheba/Customer/ViewComapnyActivity.java
  com.project.esheba.Customer.ViewComapnyActivity$4
  com.project.esheba.Customer.ViewComapnyActivity$4$1
  com.project.esheba.Customer.ViewComapnyActivity$4$2
+com/project/esheba/ServiceProvider/AllProductCHActivity.java
+ com.project.esheba.ServiceProvider.AllProductCHActivity
+ com.project.esheba.ServiceProvider.AllProductCHActivity$1
+ com.project.esheba.ServiceProvider.AllProductCHActivity$2
 com/project/esheba/Customer/Profile/EditProfileCusActivity.java
  com.project.esheba.Customer.Profile.EditProfileCusActivity
  com.project.esheba.Customer.Profile.EditProfileCusActivity$1

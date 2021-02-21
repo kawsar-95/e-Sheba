@@ -35,6 +35,11 @@ public class Constant {
     public static final String PROFILECUS_UPDATE_URL = MAIN_URL + "/update_profileCus.php";
     public static final String PROFILEADMN_UPDATE_URL = MAIN_URL + "/update_profileAdmn.php";
     public static final String DELETE_PRODUCT_URL = MAIN_URL + "/delete_product.php";
+    public static final String ORDER_SUBMIT_CH_URL = MAIN_URL + "/order_submitCH.php";
+    public static final String DELETE_PRODUCT_CH_URL = MAIN_URL + "/delete_productCH.php";
+    public static final String UPDATE_ORDER_CH_URL = MAIN_URL + "/update_orderCH.php";
+    public static final String CH_ORDER_LIST_URL = MAIN_URL + "/CH_order_list.php?cell=";
+    public static final String ORDER_LIST_URL_CH = MAIN_URL + "/order_listCH.php?cell=";
 
     public static final String ADD_SHOP_INFO_URL = MAIN_URL+"/update_shop_info.php?cell=";
     public static final String SHOP_INFO_URL = MAIN_URL+"/shop_info.php?cell=";
@@ -159,6 +164,7 @@ public class Constant {
     public static final String KEY_DESCRIPTION = "description";
     public static final String KEY_FARMER_CELL = "farmer_cell";
     public static final String KEY_SP_CELL = "sp_cell";
+    public static final String KEY_CH_CELL = "ch_cell";
     public static final String KEY_CUS_CELL = "cus_cell";
 
 

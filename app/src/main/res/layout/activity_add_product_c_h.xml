@@ -1,9 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background_eight"
+    android:orientation="vertical"
     tools:context=".ServiceProvider.Product.AddProductCHActivity">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:padding="5dp"
+                android:text="Product or Package Name"
+                android:textColor="#FFF" />
+
+            <EditText
+                android:id="@+id/etxt_CH_product_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="22dp"
+                android:background="@drawable/round_border"
+
+                android:hint="Product or Package Name"
+                android:inputType="text"
+                android:padding="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:padding="5dp"
+                android:text="Product Type"
+
+                android:textColor="#FFF" />
+
+            <EditText
+                android:id="@+id/etxt_CH_categoryProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/round_border"
+                android:drawableRight="@drawable/ic_arrow_down"
+                android:focusable="false"
+                android:hint="Category"
+
+                android:inputType="text"
+                android:padding="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:padding="5dp"
+                android:text="Package Quantity (How many time it active)"
+
+                android:textColor="#FFF" />
+
+            <EditText
+                android:id="@+id/etxt_CH_quantityProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/round_border"
+                android:hint="Quantity in Date"
+                android:inputType="number"
+
+                android:padding="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:padding="5dp"
+                android:text="Price per Package"
+
+                android:textColor="#FFF" />
+
+            <EditText
+                android:id="@+id/etxt_CH_priceProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="22dp"
+                android:background="@drawable/round_border"
+                android:hint="Price"
+                android:inputType="numberDecimal"
+                android:padding="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:textSize="16dp" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:padding="5dp"
+                android:text="Description of this Package"
+
+                android:textColor="#FFF" />
+
+            <EditText
+                android:id="@+id/etxt_CH_descriptionProduct"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="22dp"
+                android:background="@drawable/round_border"
+                android:gravity="start"
+                android:hint="Description of this Package\nPlease add the Service Provider name and mobile number"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColor="#FFF"
+                android:textColorHint="#FFF"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/btn_CH_imageAddProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="18dp"
+                android:background="@drawable/bgbtnonfocus"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Choose Image"
+                android:textColor="#ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/image_AddproductCH"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="25dp"
+                app:srcCompat="@drawable/ic_add_image" />
+
+            <Button
+                android:id="@+id/txt_CH_submitAddProduct"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="18dp"
+                android:background="@drawable/bgbtnonfocus"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Submit"
+                android:textColor="#ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

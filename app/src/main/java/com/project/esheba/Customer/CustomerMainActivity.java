@@ -20,6 +20,7 @@ import com.project.esheba.ContactAdminActivity;
 import com.project.esheba.Customer.Profile.ProfileCusActivity;
 import com.project.esheba.LoginActivity;
 import com.project.esheba.R;
+import com.project.esheba.ServiceProvider.AllProductCHActivity;
 import com.romainpiel.shimmer.Shimmer;
 import com.romainpiel.shimmer.ShimmerTextView;
 
@@ -118,9 +119,9 @@ public class CustomerMainActivity extends AppCompatActivity {
         cardAllProductsCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-             /*   Intent intent = new Intent(CustomerMainActivity.this, AllProductsActivity.class);
+               Intent intent = new Intent(CustomerMainActivity.this, AllProductCHActivity.class);
                 intent.putExtra("type", "Customer");
-                startActivity(intent);*/
+                startActivity(intent);
 
             }
         });

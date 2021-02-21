@@ -19,6 +19,8 @@ import com.project.esheba.Constant;
 import com.project.esheba.ContactAdminActivity;
 import com.project.esheba.LoginActivity;
 import com.project.esheba.R;
+import com.project.esheba.ServiceProvider.Product.AddProductCHActivity;
+import com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity;
 import com.project.esheba.ServiceProvider.Profile.ProfileSpActivity;
 import com.romainpiel.shimmer.Shimmer;
 import com.romainpiel.shimmer.ShimmerTextView;
@@ -114,8 +116,8 @@ public class SpMainActivity extends AppCompatActivity {
         cardOrdersSp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               /* Intent intent = new Intent(SpMainActivity.this, OrderSpActivity.class);
-                startActivity(intent);*/
+                Intent intent = new Intent(SpMainActivity.this, OrderListCHActivity.class);
+                startActivity(intent);
 
             }
         });
@@ -123,9 +125,9 @@ public class SpMainActivity extends AppCompatActivity {
         cardAddProductsSp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-             /*   Intent intent = new Intent(SpMainActivity.this, AddProductSpActivity.class);
+                Intent intent = new Intent(SpMainActivity.this, AddProductCHActivity.class);
                 intent.putExtra("type", "ServiceProvider");
-                startActivity(intent);*/
+                startActivity(intent);
 
             }
         });
@@ -133,9 +135,9 @@ public class SpMainActivity extends AppCompatActivity {
         cardMyProductsSp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-           /*     Intent intent = new Intent(SpMainActivity.this, AllProductsActivity.class);
+                Intent intent = new Intent(SpMainActivity.this, AllProductCHActivity.class);
                 intent.putExtra("type", "ServiceProvider");
-                startActivity(intent);*/
+                startActivity(intent);
 
             }
         });

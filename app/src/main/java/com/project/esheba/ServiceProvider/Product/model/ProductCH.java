@@ -23,12 +23,11 @@ public class ProductCH {
     private String quantity;
 
 
-    @SerializedName("sp_cell")
-    private String sp_cell;
+    @SerializedName("ch_cell")
+    private String ch_cell;
 
     @SerializedName("description")
     private String description;
-
 
 
     public String getName() {
@@ -55,8 +54,8 @@ public class ProductCH {
         return description;
     }
 
-    public String getSpCell() {
-        return sp_cell;
+    public String getChCell() {
+        return ch_cell;
     }
 
     public String getProductId() {

@@ -43,7 +43,7 @@ public interface ApiInterface {
     );
 
     //for live data search
-    @GET("product.php")
+    @GET("productCH.php")
     Call<List<ProductCH>> getProductCH(
             @Query("item_type") String item_type,
             @Query("key") String keyword,
@@ -51,7 +51,7 @@ public interface ApiInterface {
     );
 
     //for live data search
-    @GET("all_products.php")
+    @GET("all_productsCH.php")
     Call<List<ProductCH>> getAllProductCH(
             @Query("item_type") String item_type,
             @Query("key") String keyword,
@@ -60,7 +60,7 @@ public interface ApiInterface {
 
     //for upload image and info
     @Multipart
-    @POST("upload_product.php")
+    @POST("upload_productCH.php")
     Call<ProductUploadCH> uploadFileCH(@Part MultipartBody.Part file,
                                        @Part(Constant.KEY_FILE) RequestBody name,
                                        @Part(Constant.KEY_PRODUCT_NAME) RequestBody product_name,
@@ -68,5 +68,5 @@ public interface ApiInterface {
                                        @Part(Constant.KEY_QUANTITY) RequestBody stock,
                                        @Part(Constant.KEY_PRICE) RequestBody price,
                                        @Part(Constant.KEY_DESCRIPTION) RequestBody description,
-                                       @Part(Constant.KEY_SP_CELL) RequestBody sp_cell);
+                                       @Part(Constant.KEY_CH_CELL) RequestBody ch_cell);
 }

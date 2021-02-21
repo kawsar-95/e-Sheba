@@ -24,6 +24,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity" />
+        <activity android:name="com.project.esheba.ServiceProvider.OrderCHActivity" />
+        <activity android:name="com.project.esheba.ServiceProvider.AllProductCHActivity" />
         <activity android:name="com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity" />
         <activity android:name="com.project.esheba.ServiceProvider.Product.AddProductCHActivity" />
         <activity android:name="com.project.esheba.Customer.ViewComapnyActivity" />

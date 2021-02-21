@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_eight"
+    tools:context=".ServiceProvider.AllProductCHActivity">
+
+
+    <com.tt.whorlviewlibrary.WhorlView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/whorl2CH"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="12dp"
+        app:whorlview_circle_colors="#F14336_#ffffff_#5677fc_#F44336_#4CAF50"
+        app:whorlview_circle_speed="270"
+        app:whorlview_parallax="fast"
+        app:whorlview_strokeWidth="6"
+        app:whorlview_sweepAngle="90"></com.tt.whorlviewlibrary.WhorlView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerCH"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="20dp"
+        android:background="?android:attr/selectableItemBackground">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <ImageView
+        android:id="@+id/image_no_product"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="50dp" />
+
+</RelativeLayout>

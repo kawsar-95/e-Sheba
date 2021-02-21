@@ -84,7 +84,7 @@ public class ProductAdapterCH extends RecyclerView.Adapter<ProductAdapterCH.MyVi
             i.putExtra("category", productCh.get(getAdapterPosition()).getCategory());
             i.putExtra("quantity", productCh.get(getAdapterPosition()).getQuantity());
             i.putExtra("description", productCh.get(getAdapterPosition()).getDescription());
-            i.putExtra("sp_cell", productCh.get(getAdapterPosition()).getSpCell());
+            i.putExtra("ch_cell", productCh.get(getAdapterPosition()).getChCell());
             context.startActivity(i);
             Toast.makeText(context, productCh.get(getAdapterPosition()).getName(), Toast.LENGTH_SHORT).show();
 
