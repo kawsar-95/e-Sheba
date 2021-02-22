@@ -128,7 +128,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
         });
 
 
-/*
+
         txtViewReview.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -142,7 +142,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
 
             }
         });
-*/
+
 
 
         txtDeleteProduct.setOnClickListener(new View.OnClickListener() {

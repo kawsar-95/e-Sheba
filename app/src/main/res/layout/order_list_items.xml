@@ -43,7 +43,7 @@
         android:layout_alignLeft="@id/txt_name"
         android:ellipsize="end"
         android:singleLine="true"
-        android:text="Quantity"
+        android:text="Program Date"
         android:textAlignment="viewStart"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="#000"

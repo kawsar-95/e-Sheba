@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradiant"
+    tools:context=".ServiceProvider.Product.ViewReviewActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/txtReviewsTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Service Reviews"
+            android:textColor="@color/colorRed_A400"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/txt_AverageRating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Average Rating : "
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <ListView
+            android:id="@+id/listViewReview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp" />
+    </LinearLayout>
+</RelativeLayout>

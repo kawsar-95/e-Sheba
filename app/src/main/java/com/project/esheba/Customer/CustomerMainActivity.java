@@ -110,8 +110,8 @@ public class CustomerMainActivity extends AppCompatActivity {
         cardOrdersCus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               /* Intent intent = new Intent(CustomerMainActivity.this, OrderListCusActivity.class);
-                startActivity(intent);*/
+                Intent intent = new Intent(CustomerMainActivity.this, OrderListCusActivity.class);
+                startActivity(intent);
 
             }
         });
