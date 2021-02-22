@@ -2492,6 +2492,7 @@ layout activity_login
 layout activity_order_c_h
 layout activity_order_details_c_h
 layout activity_order_list_c_h
+layout activity_order_list_cus
 layout activity_product_description_c_h
 layout activity_profile_admin
 layout activity_profile_cus

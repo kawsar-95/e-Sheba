@@ -166,7 +166,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="3dp"
-                android:text="bKash TEX ID"
+                android:text="bKash Transaction Number"
                 android:textColor="@color/colorRed_A400" />
 
             <TextView
