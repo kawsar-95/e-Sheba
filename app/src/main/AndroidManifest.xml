@@ -15,7 +15,9 @@
         android:theme="@style/Theme.ESheba"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Customer.OrderListCusActivity"></activity>
+        <activity android:name=".Customer.ShopProductsActivity"></activity>
+        <activity android:name=".Customer.ReviewActivity" />
+        <activity android:name=".Customer.OrderListCusActivity" />
         <activity android:name=".ServiceProvider.Product.Order.OrderDetailsCHActivity" />
         <activity android:name=".ServiceProvider.Product.ViewReviewActivity" />
         <activity android:name=".ServiceProvider.Product.Order.OrderListCHActivity" />

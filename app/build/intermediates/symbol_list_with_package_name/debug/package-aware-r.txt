@@ -1924,6 +1924,7 @@ id btnNegative
 id btnNeutral
 id btnPositive
 id btnSearchOrderCH
+id btnSearchOrderCus
 id btnSearchShop
 id btnSearch_sp
 id btnSearch_user
@@ -2033,6 +2034,7 @@ id etxt_CH_quantityProduct
 id etxt_full_addressCH_order
 id etxt_search
 id etxt_searchOrderCH
+id etxt_searchOrderCus
 id etxt_search_sp
 id etxt_search_user
 id exitUntilCollapsed
@@ -2074,6 +2076,7 @@ id ignoreRequest
 id image
 id image_AddproductCH
 id image_no_product
+id image_no_productShop
 id imgIcon
 id img_layout
 id img_no_data
@@ -2099,6 +2102,7 @@ id linear
 id listMode
 id listView
 id listViewCH
+id listViewCusOrder
 id listViewReview
 id listView_sp
 id listView_user
@@ -2178,6 +2182,7 @@ id radio
 id ratio
 id rectangles
 id recyclerCH
+id recyclerShop
 id reverseSawtooth
 id right
 id right_icon
@@ -2412,6 +2417,7 @@ id view_offset_helper
 id visible
 id whorl
 id whorl2CH
+id whorl2Shop
 id withText
 id withinBounds
 id wrap
@@ -2498,6 +2504,8 @@ layout activity_profile_admin
 layout activity_profile_cus
 layout activity_profile_sp
 layout activity_registration
+layout activity_review
+layout activity_shop_products
 layout activity_sp_list
 layout activity_sp_main
 layout activity_splash

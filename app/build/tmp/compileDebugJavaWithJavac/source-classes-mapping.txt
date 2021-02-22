@@ -119,9 +119,17 @@ com/project/esheba/Admin/Profile/EditProfileAdminActivity.java
  com.project.esheba.Admin.Profile.EditProfileAdminActivity$4
 com/project/esheba/Customer/OrderListCusActivity.java
  com.project.esheba.Customer.OrderListCusActivity
+ com.project.esheba.Customer.OrderListCusActivity$1
+ com.project.esheba.Customer.OrderListCusActivity$2
+ com.project.esheba.Customer.OrderListCusActivity$3
+ com.project.esheba.Customer.OrderListCusActivity$4
 com/project/esheba/SplashActivity.java
  com.project.esheba.SplashActivity
  com.project.esheba.SplashActivity$1
+com/project/esheba/Customer/ShopProductsActivity.java
+ com.project.esheba.Customer.ShopProductsActivity
+ com.project.esheba.Customer.ShopProductsActivity$1
+ com.project.esheba.Customer.ShopProductsActivity$2
 com/project/esheba/Customer/Profile/ProfileCusActivity.java
  com.project.esheba.Customer.Profile.ProfileCusActivity
  com.project.esheba.Customer.Profile.ProfileCusActivity$1
@@ -180,6 +188,8 @@ com/project/esheba/ServiceProvider/Product/Order/OrderListCHActivity.java
  com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity$2
  com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity$3
  com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity$4
+com/project/esheba/Customer/ReviewActivity.java
+ com.project.esheba.Customer.ReviewActivity
 com/project/esheba/Admin/AdminMainActivity.java
  com.project.esheba.Admin.AdminMainActivity
  com.project.esheba.Admin.AdminMainActivity$1

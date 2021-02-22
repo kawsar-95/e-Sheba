@@ -4,24 +4,24 @@
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_admin_main.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sp_main.xml.flat",
-        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_sp_main.xml"
-    },
-    {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_opps_contactus.xml.flat",
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_opps_contactus.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sp_main.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_sp_main.xml"
     },
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_bill.xml.flat",
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_bill.xml"
     },
     {
-        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_arrow_down.xml.flat",
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_product_c_h.xml.flat",
@@ -94,6 +94,10 @@
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_review.xml"
     },
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bill.png.flat",
@@ -494,6 +498,10 @@
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_potato.jpg.flat",
         "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\drawable-v24\\potato.jpg"
+    },
+    {
+        "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shop_products.xml.flat",
+        "source": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\src\\main\\res\\layout\\activity_shop_products.xml"
     },
     {
         "merged": "H:\\ClientProject\\Kawser_resourse\\App_Code\\eSheba\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_login.xml.flat",

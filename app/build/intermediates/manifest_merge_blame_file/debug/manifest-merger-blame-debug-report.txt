@@ -21,7 +21,7 @@
 13-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:12:22-77
 14
 15    <application
-15-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:9:5-53:19
+15-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:9:5-55:19
 16        android:allowBackup="true"
 16-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:10:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -41,130 +41,136 @@
 25-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:15:9-44
 26        android:usesCleartextTraffic="true" >
 26-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:16:9-44
-27        <activity android:name="com.project.esheba.Customer.OrderListCusActivity" />
+27        <activity android:name="com.project.esheba.Customer.ShopProductsActivity" />
 27-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:9-76
 27-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:18:19-64
-28        <activity android:name="com.project.esheba.ServiceProvider.Product.Order.OrderDetailsCHActivity" />
-28-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:9-90
-28-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:19-87
-29        <activity android:name="com.project.esheba.ServiceProvider.Product.ViewReviewActivity" />
-29-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:9-80
-29-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:19-77
-30        <activity android:name="com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity" />
-30-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:9-87
-30-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:19-84
-31        <activity android:name="com.project.esheba.ServiceProvider.OrderCHActivity" />
-31-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:9-69
-31-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:19-66
-32        <activity android:name="com.project.esheba.ServiceProvider.AllProductCHActivity" />
-32-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:9-74
-32-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:19-71
-33        <activity android:name="com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity" />
-33-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:9-90
-33-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:19-87
-34        <activity android:name="com.project.esheba.ServiceProvider.Product.AddProductCHActivity" />
-34-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:9-82
-34-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:19-79
-35        <activity android:name="com.project.esheba.Customer.ViewComapnyActivity" />
-35-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:9-66
-35-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:19-63
-36        <activity android:name="com.project.esheba.ServiceProvider.CompanyInfoActivity" />
-36-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:9-73
-36-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:19-70
-37        <activity android:name="com.project.esheba.ContactAdminActivity" />
-37-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:9-58
-37-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:19-55
-38        <activity android:name="com.project.esheba.Admin.Profile.CustomerListActivity" />
-38-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:9-72
-38-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:19-69
-39        <activity android:name="com.project.esheba.Admin.Profile.SpListActivity" />
-39-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:9-66
-39-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:19-63
-40        <activity android:name="com.project.esheba.ServiceProvider.Profile.EditProfileSpActivity" />
-40-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:9-83
-40-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:19-80
-41        <activity android:name="com.project.esheba.ServiceProvider.Profile.ProfileSpActivity" />
-41-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:9-79
-41-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:19-76
-42        <activity android:name="com.project.esheba.Customer.Profile.EditProfileCusActivity" />
-42-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:9-77
-42-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:19-74
-43        <activity android:name="com.project.esheba.Customer.Profile.ProfileCusActivity" />
-43-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:9-73
-43-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:19-70
-44        <activity android:name="com.project.esheba.Admin.Profile.EditProfileAdminActivity" />
-44-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:9-76
-44-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:19-73
-45        <activity android:name="com.project.esheba.Admin.Profile.ProfileAdminActivity" />
-45-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:9-72
-45-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:19-69
-46        <activity android:name="com.project.esheba.ServiceProvider.SpMainActivity" />
-46-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:9-68
-46-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:19-65
-47        <activity android:name="com.project.esheba.Customer.CustomerMainActivity" />
-47-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:38:9-67
-47-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:38:19-64
-48        <activity android:name="com.project.esheba.Admin.AdminMainActivity" />
-48-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:39:9-61
-48-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:39:19-58
-49        <activity android:name="com.project.esheba.RegistrationActivity" />
-49-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:40:9-58
-49-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:40:19-55
-50        <activity android:name="com.project.esheba.LoginActivity" />
-50-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:9-51
-50-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:19-48
-51        <activity android:name="com.project.esheba.SplashActivity" >
-51-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:9-48:20
-51-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:19-49
-52            <intent-filter>
-52-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:43:13-47:29
-53                <action android:name="android.intent.action.MAIN" />
-53-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:44:17-69
-53-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:44:25-66
-54
-55                <category android:name="android.intent.category.LAUNCHER" />
-55-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:46:17-77
-55-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:46:27-74
-56            </intent-filter>
-57        </activity>
-58
-59        <uses-library
-59-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:50:9-52:40
-60            android:name="org.apache.http.legacy"
-60-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:51:13-50
-61            android:required="false" />
-61-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:52:13-37
-62
-63        <activity
-63-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
-64            android:name="com.karumi.dexter.DexterActivity"
-64-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
-65            android:theme="@style/Dexter.Internal.Theme.Transparent" />
-65-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
-66        <activity
-66-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:15:9-17:67
-67            android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
-67-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:16:13-78
-68            android:theme="@style/Theme.AppCompat.Light.Dialog" />
-68-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:17:13-64
-69
-70        <provider
-70-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:19:9-27:20
-71            android:name="androidx.core.content.FileProvider"
-71-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:20:13-62
-72            android:authorities="com.project.esheba.provider"
-72-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:21:13-60
-73            android:exported="false"
-73-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:22:13-37
-74            android:grantUriPermissions="true" >
-74-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:23:13-47
-75            <meta-data
-75-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:24:13-26:58
-76                android:name="android.support.FILE_PROVIDER_PATHS"
-76-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:25:17-67
-77                android:resource="@xml/provider_paths" />
-77-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:26:17-55
-78        </provider>
-79    </application>
-80
-81</manifest>
+28        <activity android:name="com.project.esheba.Customer.ReviewActivity" />
+28-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:9-61
+28-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:19:19-58
+29        <activity android:name="com.project.esheba.Customer.OrderListCusActivity" />
+29-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:9-67
+29-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:20:19-64
+30        <activity android:name="com.project.esheba.ServiceProvider.Product.Order.OrderDetailsCHActivity" />
+30-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:9-90
+30-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:21:19-87
+31        <activity android:name="com.project.esheba.ServiceProvider.Product.ViewReviewActivity" />
+31-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:9-80
+31-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:22:19-77
+32        <activity android:name="com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity" />
+32-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:9-87
+32-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:23:19-84
+33        <activity android:name="com.project.esheba.ServiceProvider.OrderCHActivity" />
+33-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:9-69
+33-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:24:19-66
+34        <activity android:name="com.project.esheba.ServiceProvider.AllProductCHActivity" />
+34-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:9-74
+34-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:25:19-71
+35        <activity android:name="com.project.esheba.ServiceProvider.Product.ProductDescriptionCHActivity" />
+35-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:9-90
+35-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:26:19-87
+36        <activity android:name="com.project.esheba.ServiceProvider.Product.AddProductCHActivity" />
+36-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:9-82
+36-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:27:19-79
+37        <activity android:name="com.project.esheba.Customer.ViewComapnyActivity" />
+37-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:9-66
+37-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:28:19-63
+38        <activity android:name="com.project.esheba.ServiceProvider.CompanyInfoActivity" />
+38-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:9-73
+38-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:29:19-70
+39        <activity android:name="com.project.esheba.ContactAdminActivity" />
+39-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:9-58
+39-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:30:19-55
+40        <activity android:name="com.project.esheba.Admin.Profile.CustomerListActivity" />
+40-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:9-72
+40-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:31:19-69
+41        <activity android:name="com.project.esheba.Admin.Profile.SpListActivity" />
+41-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:9-66
+41-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:32:19-63
+42        <activity android:name="com.project.esheba.ServiceProvider.Profile.EditProfileSpActivity" />
+42-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:9-83
+42-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:33:19-80
+43        <activity android:name="com.project.esheba.ServiceProvider.Profile.ProfileSpActivity" />
+43-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:9-79
+43-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:34:19-76
+44        <activity android:name="com.project.esheba.Customer.Profile.EditProfileCusActivity" />
+44-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:9-77
+44-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:35:19-74
+45        <activity android:name="com.project.esheba.Customer.Profile.ProfileCusActivity" />
+45-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:9-73
+45-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:36:19-70
+46        <activity android:name="com.project.esheba.Admin.Profile.EditProfileAdminActivity" />
+46-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:9-76
+46-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:37:19-73
+47        <activity android:name="com.project.esheba.Admin.Profile.ProfileAdminActivity" />
+47-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:38:9-72
+47-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:38:19-69
+48        <activity android:name="com.project.esheba.ServiceProvider.SpMainActivity" />
+48-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:39:9-68
+48-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:39:19-65
+49        <activity android:name="com.project.esheba.Customer.CustomerMainActivity" />
+49-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:40:9-67
+49-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:40:19-64
+50        <activity android:name="com.project.esheba.Admin.AdminMainActivity" />
+50-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:9-61
+50-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:41:19-58
+51        <activity android:name="com.project.esheba.RegistrationActivity" />
+51-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:9-58
+51-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:42:19-55
+52        <activity android:name="com.project.esheba.LoginActivity" />
+52-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:43:9-51
+52-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:43:19-48
+53        <activity android:name="com.project.esheba.SplashActivity" >
+53-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:44:9-50:20
+53-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:44:19-49
+54            <intent-filter>
+54-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:45:13-49:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:46:17-69
+55-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:46:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:48:17-77
+57-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:48:27-74
+58            </intent-filter>
+59        </activity>
+60
+61        <uses-library
+61-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:52:9-54:40
+62            android:name="org.apache.http.legacy"
+62-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:53:13-50
+63            android:required="false" />
+63-->H:\ClientProject\Kawser_resourse\App_Code\eSheba\app\src\main\AndroidManifest.xml:54:13-37
+64
+65        <activity
+65-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+66            android:name="com.karumi.dexter.DexterActivity"
+66-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
+67            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+67-->[com.karumi:dexter:5.0.0] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\d88cb64b4e69d14ab07a361df3b9451a\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
+68        <activity
+68-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:15:9-17:67
+69            android:name="in.mayanknagwanshi.imagepicker.ImageSelectActivity"
+69-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:16:13-78
+70            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+70-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:17:13-64
+71
+72        <provider
+72-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:19:9-27:20
+73            android:name="androidx.core.content.FileProvider"
+73-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:20:13-62
+74            android:authorities="com.project.esheba.provider"
+74-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:21:13-60
+75            android:exported="false"
+75-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:22:13-37
+76            android:grantUriPermissions="true" >
+76-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:23:13-47
+77            <meta-data
+77-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:24:13-26:58
+78                android:name="android.support.FILE_PROVIDER_PATHS"
+78-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:25:17-67
+79                android:resource="@xml/provider_paths" />
+79-->[com.github.maayyaannkk:ImagePicker:1.0.4] C:\Users\habib\.gradle\caches\transforms-2\files-2.1\ef2c74c0ceed5feeb5f77dfbfca7fed7\jetified-ImagePicker-1.0.4\AndroidManifest.xml:26:17-55
+80        </provider>
+81    </application>
+82
+83</manifest>

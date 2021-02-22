@@ -192,13 +192,13 @@ public class ViewComapnyActivity extends AppCompatActivity {
                             public void onClick(DialogInterface dialog, int which) {
 
                                 //amake ekhane edit korte hobe
-                       /*         Intent intent = new Intent(ViewComapnyActivity.this, ShopProductsActivity.class);
+                                Intent intent = new Intent(ViewComapnyActivity.this, ShopProductsActivity.class);
                                 //intent.setData(Uri.parse("cell" + shopCell[position]));
                                 String shopcell=shopCell[position];
                                 intent.putExtra("getcell", shopcell);
 
                                 //intent.putExtra("type", "Shop");
-                                startActivity(intent);*/
+                                startActivity(intent);
 
                             }
                         })

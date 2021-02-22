@@ -60,7 +60,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
         txtDescription = findViewById(R.id.txt_descriptionCH);
         txtOrder = findViewById(R.id.txt_orderCH);
         txtViewReview = findViewById(R.id.txt_view_reviewCH);
-        txtViewReview.setVisibility(View.INVISIBLE);
+       // txtViewReview.setVisibility(View.INVISIBLE);
         txtDeleteProduct = findViewById(R.id.txt_deleteProductCH);
         txtViewShop = findViewById(R.id.txt_viewAllProductsCH);
         txtViewShop.setVisibility(View.INVISIBLE);
