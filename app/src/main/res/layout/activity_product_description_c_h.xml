@@ -161,23 +161,6 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/txt_viewAllProductsCH"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentBottom="true"
-                    android:layout_marginLeft="40dp"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginRight="40dp"
-                    android:layout_marginBottom="18dp"
-                    android:background="@drawable/bgbtnonfocus"
-                    android:gravity="center"
-                    android:padding="10dp"
-                    android:text="All Packages of this Convention Hall"
-                    android:textColor="#ffffff"
-                    android:textSize="16dp"
-                    android:textStyle="bold" />
-
-                <Button
                     android:id="@+id/txt_view_reviewCH"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -190,6 +173,23 @@
                     android:gravity="center"
                     android:padding="10dp"
                     android:text="View Review"
+                    android:textColor="#ffffff"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/txt_viewAllProductsCH"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="40dp"
+                    android:layout_marginBottom="18dp"
+                    android:background="@drawable/bgbtnonfocus"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="All Packages of this Company"
                     android:textColor="#ffffff"
                     android:textSize="16dp"
                     android:textStyle="bold" />

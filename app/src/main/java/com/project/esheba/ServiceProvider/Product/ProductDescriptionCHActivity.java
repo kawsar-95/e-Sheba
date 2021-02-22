@@ -149,7 +149,7 @@ public class ProductDescriptionCHActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 AlertDialog.Builder builder = new AlertDialog.Builder(ProductDescriptionCHActivity.this);
-                builder.setMessage("Want to delete this product ?")
+                builder.setMessage("Want to delete this service ?")
                         .setCancelable(false)
                         .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialog, int which) {

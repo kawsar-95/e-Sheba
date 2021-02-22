@@ -51,6 +51,12 @@ com/project/esheba/Customer/CustomerMainActivity.java
  com.project.esheba.Customer.CustomerMainActivity$8
 com/project/esheba/ServiceProvider/OrderCHActivity.java
  com.project.esheba.ServiceProvider.OrderCHActivity
+ com.project.esheba.ServiceProvider.OrderCHActivity$1
+ com.project.esheba.ServiceProvider.OrderCHActivity$2
+ com.project.esheba.ServiceProvider.OrderCHActivity$3
+ com.project.esheba.ServiceProvider.OrderCHActivity$4
+ com.project.esheba.ServiceProvider.OrderCHActivity$5
+ com.project.esheba.ServiceProvider.OrderCHActivity$6
 com/project/esheba/ServiceProvider/CompanyInfoActivity.java
  com.project.esheba.ServiceProvider.CompanyInfoActivity
  com.project.esheba.ServiceProvider.CompanyInfoActivity$1

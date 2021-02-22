@@ -102,6 +102,7 @@ public class Constant {
     //public static final String KEY_QUANTITY = "quantity";
     public static final String KEY_TEST_TYPE = "type";
     public static final String KEY_PRICE = "price";
+    public static final String KEY_PROGRAM_DATE = "program_date";
 
 
     public static final String JSON_ARRAY = "result";

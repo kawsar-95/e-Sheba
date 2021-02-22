@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradiant"
+    android:background="@drawable/background_three"
     android:orientation="vertical"
-    tools:context=".ServiceProvider.OrderCHActivity">
+    tools:context=".ServiceProvider.OrderCH_orderActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -36,15 +36,15 @@
                 android:layout_height="wrap_content"
                 android:padding="3dp"
                 android:text="Product Name"
-                android:textColor="@color/white" />
+                android:textColor="@color/colorPrimary" />
 
             <TextView
-                android:id="@+id/txt_product_nameCH"
+                android:id="@+id/txt_product_nameCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round_border"
                 android:padding="16dp"
-                android:textColor="@color/white"
+                android:textColor="@color/colorPrimary"
 
                 android:textSize="16sp" />
 
@@ -55,10 +55,10 @@
                 android:padding="3dp"
                 android:text="Product Price"
 
-                android:textColor="@color/white" />
+                android:textColor="@color/colorPrimary" />
 
             <TextView
-                android:id="@+id/txt_product_priceCH"
+                android:id="@+id/txt_product_priceCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round_border"
@@ -75,10 +75,10 @@
                 android:padding="5dp"
                 android:text="Program Date (Book your date here)"
 
-                android:textColor="#FFF" />
+                android:textColor="@color/colorPrimary" />
 
             <EditText
-                android:id="@+id/txt_programDateCH"
+                android:id="@+id/txt_programDateCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
@@ -87,8 +87,8 @@
                 android:hint="Program Date"
                 android:inputType="datetime"
                 android:padding="16dp"
-                android:textColor="#FFF"
-                android:textColorHint="#FFF"
+                android:textColor="@color/colorPrimary"
+                android:textColorHint="@color/colorPrimary"
                 android:textSize="16dp" />
 
 
@@ -109,10 +109,10 @@
                 android:padding="3dp"
                 android:text="Full Address"
 
-                android:textColor="@color/white" />
+                android:textColor="@color/colorPrimary" />
 
             <EditText
-                android:id="@+id/etxt_full_addressCH"
+                android:id="@+id/etxt_full_addressCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 android:layout_marginBottom="10dp"
@@ -122,8 +122,8 @@
                 android:hint="Full Address"
                 android:inputType="textMultiLine"
                 android:padding="5dp"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white" />
+                android:textColor="@color/colorPrimary"
+                android:textColorHint="@color/colorPrimary" />
 
             <TextView
                 android:id="@+id/textView10"
@@ -140,24 +140,24 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="3dp"
-                android:text="bKash TrxID (Have to pay 40% Advance)\nPlease check the number in description"
+                android:text="bKash Transaction Number (Have to pay 40% Advance)\nPlease check the number in description"
 
-                android:textColor="@color/white" />
+                android:textColor="@color/colorPrimary" />
 
             <EditText
-                android:id="@+id/etx_bkash_txtIDCH"
+                android:id="@+id/etx_bkash_txtIDCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round_border"
                 android:hint="Enter bKash Tex ID here"
                 android:inputType="text"
                 android:padding="16dp"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
+                android:textColor="@color/colorPrimary"
+                android:textColorHint="@color/colorPrimary"
                 android:textSize="16sp" />
 
             <Button
-                android:id="@+id/txt_submit_orderCH"
+                android:id="@+id/txt_submit_orderCH_order"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
