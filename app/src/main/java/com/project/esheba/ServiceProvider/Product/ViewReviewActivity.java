@@ -46,7 +46,7 @@ public class ViewReviewActivity extends AppCompatActivity {
     ShimmerTextView tv2;
     Shimmer shimmer2;
 
-    String cell, chCell, Name;
+    String cell, ch_cell, Name;
     SharedPreferences sharedPreferences;
 
     @Override
@@ -70,9 +70,9 @@ public class ViewReviewActivity extends AppCompatActivity {
 
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);//for back button
-        getSupportActionBar().setTitle("Service Reviews");
+        getSupportActionBar().setTitle("Service Review & Ratings");
 
-        chCell = getIntent().getExtras().getString("ch_cell");
+        ch_cell = getIntent().getExtras().getString("ch_cell");
         Name = getIntent().getExtras().getString("name");
 
 
@@ -97,12 +97,11 @@ public class ViewReviewActivity extends AppCompatActivity {
         loading.show();
 
         if (!s.isEmpty()) {
-            getSearchText = s;
+            getSearchText = ch_cell;
         }
-
         System.out.println(Name);
-        System.out.println(chCell);
-        String url = Constant.REVIEW_LIST_URL + Name + "&text=" + getSearchText;
+        System.out.println(ch_cell);
+        String url = Constant.REVIEW_LIST_URL +Name  + "&text=" +ch_cell ;
 
         Log.d("URL", url);
         StringRequest stringRequest = new StringRequest(url, new Response.Listener<String>() {

@@ -2179,6 +2179,7 @@ id profile_image
 id progress_circular
 id progress_horizontal
 id radio
+id rating
 id ratio
 id rectangles
 id recyclerCH
@@ -2329,6 +2330,7 @@ id txtNameAdmn
 id txtNameCus
 id txtNameSp
 id txtOrderInfoTitleCH_OderDetails
+id txtReviewTitle
 id txtReviewsTitle
 id txtTitle
 id txtTitlesignup
@@ -2387,9 +2389,11 @@ id txt_program_dateCH_OderDetails
 id txt_quantity
 id txt_quantityCH
 id txt_rating
+id txt_ratingcommend
 id txt_review
 id txt_sizePhotographer
 id txt_status
+id txt_submit
 id txt_submit_orderCH_order
 id txt_time_dateCH_OderDetails
 id txt_viewAllProductsCH

@@ -190,6 +190,13 @@ com/project/esheba/ServiceProvider/Product/Order/OrderListCHActivity.java
  com.project.esheba.ServiceProvider.Product.Order.OrderListCHActivity$4
 com/project/esheba/Customer/ReviewActivity.java
  com.project.esheba.Customer.ReviewActivity
+ com.project.esheba.Customer.ReviewActivity$1
+ com.project.esheba.Customer.ReviewActivity$2
+ com.project.esheba.Customer.ReviewActivity$3
+ com.project.esheba.Customer.ReviewActivity$4
+ com.project.esheba.Customer.ReviewActivity$5
+ com.project.esheba.Customer.ReviewActivity$6
+ com.project.esheba.Customer.ReviewActivity$7
 com/project/esheba/Admin/AdminMainActivity.java
  com.project.esheba.Admin.AdminMainActivity
  com.project.esheba.Admin.AdminMainActivity$1
